@@ -2,6 +2,7 @@
   "products": [
     {
       "id": "1",
+      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png",
       "title": "Snowy Owl",
       "description": "A magical item from the magical pet market collection.",
       "category": "Magical Pet Market",
@@ -26,7 +27,8 @@
       "tags": [
         "rare",
         "loyal"
-      ]
+      ],
+      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
     },
     {
       "id": "3",
@@ -40,7 +42,8 @@
       "tags": [
         "rare",
         "loyal"
-      ]
+      ],
+      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
     },
     {
       "id": "4",
@@ -54,7 +57,8 @@
       "tags": [
         "cute",
         "magical"
-      ]
+      ],
+      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
     },
     {
       "id": "5",
@@ -68,7 +72,8 @@
       "tags": [
         "rare",
         "loyal"
-      ]
+      ],
+      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
     },
     {
       "id": "6",
@@ -82,7 +87,8 @@
       "tags": [
         "slimy",
         "classic"
-      ]
+      ],
+      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
     },
     {
       "id": "7",
@@ -96,7 +102,8 @@
       "tags": [
         "cute",
         "magical"
-      ]
+      ],
+      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
     },
     {
       "id": "8",
@@ -110,7 +117,8 @@
       "tags": [
         "slimy",
         "classic"
-      ]
+      ],
+      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
     },
     {
       "id": "9",
@@ -124,7 +132,8 @@
       "tags": [
         "slimy",
         "classic"
-      ]
+      ],
+      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
     },
     {
       "id": "10",
@@ -138,7 +147,8 @@
       "tags": [
         "cute",
         "magical"
-      ]
+      ],
+      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
     },
     {
       "id": "11",
@@ -152,7 +162,8 @@
       "tags": [
         "flexible",
         "ancient"
-      ]
+      ],
+      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
     },
     {
       "id": "12",
@@ -166,7 +177,8 @@
       "tags": [
         "core",
         "powerful"
-      ]
+      ],
+      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
     },
     {
       "id": "13",
@@ -180,7 +192,8 @@
       "tags": [
         "legendary",
         "personalized"
-      ]
+      ],
+      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
     },
     {
       "id": "14",
@@ -194,7 +207,8 @@
       "tags": [
         "core",
         "powerful"
-      ]
+      ],
+      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
     },
     {
       "id": "15",
@@ -208,7 +222,8 @@
       "tags": [
         "legendary",
         "personalized"
-      ]
+      ],
+      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
     },
     {
       "id": "16",
@@ -222,7 +237,8 @@
       "tags": [
         "flexible",
         "ancient"
-      ]
+      ],
+      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
     },
     {
       "id": "17",
@@ -236,7 +252,8 @@
       "tags": [
         "core",
         "powerful"
-      ]
+      ],
+      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
     },
     {
       "id": "18",
@@ -250,7 +267,8 @@
       "tags": [
         "flexible",
         "ancient"
-      ]
+      ],
+      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
     },
     {
       "id": "19",
@@ -264,7 +282,8 @@
       "tags": [
         "core",
         "powerful"
-      ]
+      ],
+      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
     },
     {
       "id": "20",
@@ -278,7 +297,8 @@
       "tags": [
         "legendary",
         "personalized"
-      ]
+      ],
+      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
     },
     {
       "id": "21",
@@ -292,7 +312,8 @@
       "tags": [
         "sport",
         "racing"
-      ]
+      ],
+      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
     },
     {
       "id": "22",
@@ -306,7 +327,8 @@
       "tags": [
         "fast",
         "light"
-      ]
+      ],
+      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
     },
     {
       "id": "23",
@@ -320,7 +342,8 @@
       "tags": [
         "sport",
         "racing"
-      ]
+      ],
+      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
     },
     {
       "id": "24",
@@ -334,7 +357,8 @@
       "tags": [
         "fast",
         "light"
-      ]
+      ],
+      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
     },
     {
       "id": "25",
@@ -348,7 +372,8 @@
       "tags": [
         "fast",
         "light"
-      ]
+      ],
+      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
     },
     {
       "id": "26",
@@ -362,7 +387,8 @@
       "tags": [
         "vintage",
         "reliable"
-      ]
+      ],
+      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
     },
     {
       "id": "27",
@@ -376,7 +402,8 @@
       "tags": [
         "fast",
         "light"
-      ]
+      ],
+      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
     },
     {
       "id": "28",
@@ -390,7 +417,8 @@
       "tags": [
         "fast",
         "light"
-      ]
+      ],
+      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
     },
     {
       "id": "29",
@@ -404,7 +432,8 @@
       "tags": [
         "sport",
         "racing"
-      ]
+      ],
+      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
     },
     {
       "id": "30",
@@ -418,7 +447,8 @@
       "tags": [
         "sport",
         "racing"
-      ]
+      ],
+      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
     },
     {
       "id": "31",
@@ -432,7 +462,8 @@
       "tags": [
         "liquid magic",
         "dangerous"
-      ]
+      ],
+      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
     },
     {
       "id": "32",
@@ -446,7 +477,8 @@
       "tags": [
         "experimental",
         "popular"
-      ]
+      ],
+      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
     },
     {
       "id": "33",
@@ -460,7 +492,8 @@
       "tags": [
         "sweet",
         "tricky"
-      ]
+      ],
+      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
     },
     {
       "id": "34",
@@ -474,7 +507,8 @@
       "tags": [
         "sweet",
         "tricky"
-      ]
+      ],
+      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
     },
     {
       "id": "35",
@@ -488,7 +522,8 @@
       "tags": [
         "liquid magic",
         "dangerous"
-      ]
+      ],
+      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
     },
     {
       "id": "36",
@@ -502,7 +537,8 @@
       "tags": [
         "liquid magic",
         "dangerous"
-      ]
+      ],
+      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
     },
     {
       "id": "37",
@@ -516,7 +552,8 @@
       "tags": [
         "sweet",
         "tricky"
-      ]
+      ],
+      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
     },
     {
       "id": "38",
@@ -530,7 +567,8 @@
       "tags": [
         "liquid magic",
         "dangerous"
-      ]
+      ],
+      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
     },
     {
       "id": "39",
@@ -544,7 +582,8 @@
       "tags": [
         "liquid magic",
         "dangerous"
-      ]
+      ],
+      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
     },
     {
       "id": "40",
@@ -558,7 +597,8 @@
       "tags": [
         "experimental",
         "popular"
-      ]
+      ],
+      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
     },
     {
       "id": "41",
@@ -572,7 +612,8 @@
       "tags": [
         "educational",
         "standard"
-      ]
+      ],
+      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
       "id": "42",
@@ -586,7 +627,8 @@
       "tags": [
         "educational",
         "standard"
-      ]
+      ],
+      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
       "id": "43",
@@ -600,7 +642,8 @@
       "tags": [
         "fun",
         "beasts"
-      ]
+      ],
+      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
       "id": "44",
@@ -614,11 +657,12 @@
       "tags": [
         "fun",
         "beasts"
-      ]
+      ],
+      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
       "id": "45",
-      "title": "A Beginner’s Guide to Transfiguration",
+      "title": "A Beginner\u2019s Guide to Transfiguration",
       "description": "A magical item from the spellbooks and magic collection.",
       "category": "Spellbooks and Magic",
       "price": 746,
@@ -628,7 +672,8 @@
       "tags": [
         "fun",
         "beasts"
-      ]
+      ],
+      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
       "id": "46",
@@ -642,7 +687,8 @@
       "tags": [
         "educational",
         "standard"
-      ]
+      ],
+      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
       "id": "47",
@@ -656,7 +702,8 @@
       "tags": [
         "fun",
         "beasts"
-      ]
+      ],
+      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
       "id": "48",
@@ -670,7 +717,8 @@
       "tags": [
         "fun",
         "beasts"
-      ]
+      ],
+      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
       "id": "49",
@@ -684,7 +732,8 @@
       "tags": [
         "dark",
         "advanced"
-      ]
+      ],
+      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
       "id": "50",
@@ -698,7 +747,8 @@
       "tags": [
         "educational",
         "standard"
-      ]
+      ],
+      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
       "id": "51",
@@ -712,7 +762,8 @@
       "tags": [
         "mysterious",
         "legendary"
-      ]
+      ],
+      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
       "id": "52",
@@ -726,7 +777,8 @@
       "tags": [
         "rare",
         "collector"
-      ]
+      ],
+      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
       "id": "53",
@@ -740,11 +792,12 @@
       "tags": [
         "mysterious",
         "legendary"
-      ]
+      ],
+      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
       "id": "54",
-      "title": "Marauder’s Map",
+      "title": "Marauder\u2019s Map",
       "description": "A magical item from the magical artifacts catalog collection.",
       "category": "Magical Artifacts Catalog",
       "price": 777,
@@ -754,11 +807,12 @@
       "tags": [
         "mysterious",
         "legendary"
-      ]
+      ],
+      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
       "id": "55",
-      "title": "Sorcerer’s Stone Replica",
+      "title": "Sorcerer\u2019s Stone Replica",
       "description": "A magical item from the magical artifacts catalog collection.",
       "category": "Magical Artifacts Catalog",
       "price": 372,
@@ -768,7 +822,8 @@
       "tags": [
         "dark",
         "powerful"
-      ]
+      ],
+      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
       "id": "56",
@@ -782,7 +837,8 @@
       "tags": [
         "dark",
         "powerful"
-      ]
+      ],
+      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
       "id": "57",
@@ -796,7 +852,8 @@
       "tags": [
         "rare",
         "collector"
-      ]
+      ],
+      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
       "id": "58",
@@ -810,7 +867,8 @@
       "tags": [
         "rare",
         "collector"
-      ]
+      ],
+      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
       "id": "59",
@@ -824,11 +882,12 @@
       "tags": [
         "rare",
         "collector"
-      ]
+      ],
+      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
       "id": "60",
-      "title": "Hogwarts Founders’ Medallion",
+      "title": "Hogwarts Founders\u2019 Medallion",
       "description": "A magical item from the magical artifacts catalog collection.",
       "category": "Magical Artifacts Catalog",
       "price": 262,
@@ -838,7 +897,8 @@
       "tags": [
         "mysterious",
         "legendary"
-      ]
+      ],
+      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
       "id": "61",
@@ -852,7 +912,8 @@
       "tags": [
         "hogwarts",
         "starter"
-      ]
+      ],
+      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
       "id": "62",
@@ -866,7 +927,8 @@
       "tags": [
         "slytherin",
         "bundle"
-      ]
+      ],
+      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
       "id": "63",
@@ -880,7 +942,8 @@
       "tags": [
         "hogwarts",
         "starter"
-      ]
+      ],
+      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
       "id": "64",
@@ -894,7 +957,8 @@
       "tags": [
         "hogwarts",
         "starter"
-      ]
+      ],
+      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
       "id": "65",
@@ -908,7 +972,8 @@
       "tags": [
         "gryffindor",
         "essentials"
-      ]
+      ],
+      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
       "id": "66",
@@ -922,7 +987,8 @@
       "tags": [
         "slytherin",
         "bundle"
-      ]
+      ],
+      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
       "id": "67",
@@ -936,7 +1002,8 @@
       "tags": [
         "slytherin",
         "bundle"
-      ]
+      ],
+      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
       "id": "68",
@@ -950,7 +1017,8 @@
       "tags": [
         "hogwarts",
         "starter"
-      ]
+      ],
+      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
       "id": "69",
@@ -964,7 +1032,8 @@
       "tags": [
         "hogwarts",
         "starter"
-      ]
+      ],
+      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
       "id": "70",
@@ -978,7 +1047,8 @@
       "tags": [
         "slytherin",
         "bundle"
-      ]
+      ],
+      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
       "id": "4e7d",
@@ -990,7 +1060,8 @@
       "rating": 1,
       "tags": [
         "classic"
-      ]
+      ],
+      "image": "https://i.postimg.cc/gJtucJRH/f5d24588-706f-4edd-93db-29d2aa6cb5ff.png"
     }
   ]
 }
