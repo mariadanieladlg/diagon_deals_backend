@@ -2,7 +2,6 @@
   "products": [
     {
       "id": "1",
-      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png",
       "title": "Snowy Owl",
       "description": "A magical item from the magical pet market collection.",
       "category": "Magical Pet Market",
@@ -10,10 +9,8 @@
       "discountPercentage": 18.2,
       "rating": 4.9,
       "stock": 15,
-      "tags": [
-        "slimy",
-        "classic"
-      ]
+      "tags": ["slimy", "classic"],
+      "image": "https://imgur.com/NCbsIni"
     },
     {
       "id": "2",
@@ -24,11 +21,8 @@
       "discountPercentage": 1.3,
       "rating": 4,
       "stock": 17,
-      "tags": [
-        "rare",
-        "loyal"
-      ],
-      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
+      "tags": ["rare", "loyal"],
+      "image": "https://imgur.com/Oym2yjv"
     },
     {
       "id": "3",
@@ -39,11 +33,8 @@
       "discountPercentage": 3.7,
       "rating": 4.8,
       "stock": 7,
-      "tags": [
-        "rare",
-        "loyal"
-      ],
-      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
+      "tags": ["rare", "loyal"],
+      "image": "https://imgur.com/RqoBbUE"
     },
     {
       "id": "4",
@@ -54,11 +45,8 @@
       "discountPercentage": 11.2,
       "rating": 4.8,
       "stock": 16,
-      "tags": [
-        "cute",
-        "magical"
-      ],
-      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
+      "tags": ["cute", "magical"],
+      "image": "https://imgur.com/nNHkkpW"
     },
     {
       "id": "5",
@@ -69,11 +57,8 @@
       "discountPercentage": 16.6,
       "rating": 4.9,
       "stock": 2,
-      "tags": [
-        "rare",
-        "loyal"
-      ],
-      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
+      "tags": ["rare", "loyal"],
+      "image": "https://imgur.com/PH22bmT"
     },
     {
       "id": "6",
@@ -84,11 +69,8 @@
       "discountPercentage": 7.7,
       "rating": 4,
       "stock": 11,
-      "tags": [
-        "slimy",
-        "classic"
-      ],
-      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
+      "tags": ["slimy", "classic"],
+      "image": "https://imgur.com/Ctg3gkR"
     },
     {
       "id": "7",
@@ -99,11 +81,8 @@
       "discountPercentage": 15.4,
       "rating": 4,
       "stock": 11,
-      "tags": [
-        "cute",
-        "magical"
-      ],
-      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
+      "tags": ["cute", "magical"],
+      "image": "https://imgur.com/I1r7Y0o"
     },
     {
       "id": "8",
@@ -114,11 +93,8 @@
       "discountPercentage": 13,
       "rating": 4.9,
       "stock": 26,
-      "tags": [
-        "slimy",
-        "classic"
-      ],
-      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
+      "tags": ["slimy", "classic"],
+      "image": "https://imgur.com/WBf8lcw"
     },
     {
       "id": "9",
@@ -129,11 +105,8 @@
       "discountPercentage": 4.6,
       "rating": 4.5,
       "stock": 24,
-      "tags": [
-        "slimy",
-        "classic"
-      ],
-      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
+      "tags": ["slimy", "classic"],
+      "image": "https://imgur.com/FTadLyD"
     },
     {
       "id": "10",
@@ -144,11 +117,8 @@
       "discountPercentage": 13.6,
       "rating": 4.3,
       "stock": 5,
-      "tags": [
-        "cute",
-        "magical"
-      ],
-      "image": "https://i.postimg.cc/PfzQdhMG/96763c0e-dfdb-4131-82e0-7f834d26a4a1.png"
+      "tags": ["cute", "magical"],
+      "image": "https://imgur.com/GSM3aVz"
     },
     {
       "id": "11",
@@ -159,11 +129,8 @@
       "discountPercentage": 4.5,
       "rating": 4.2,
       "stock": 23,
-      "tags": [
-        "flexible",
-        "ancient"
-      ],
-      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
+      "tags": ["flexible", "ancient"],
+      "image": "https://imgur.com/maqvbzG"
     },
     {
       "id": "12",
@@ -174,11 +141,8 @@
       "discountPercentage": 0.9,
       "rating": 4.5,
       "stock": 1,
-      "tags": [
-        "core",
-        "powerful"
-      ],
-      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
+      "tags": ["core", "powerful"],
+      "image": "https://imgur.com/SPpQ97s"
     },
     {
       "id": "13",
@@ -189,11 +153,8 @@
       "discountPercentage": 6.2,
       "rating": 4.6,
       "stock": 20,
-      "tags": [
-        "legendary",
-        "personalized"
-      ],
-      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
+      "tags": ["legendary", "personalized"],
+      "image": "https://imgur.com/009XPm0"
     },
     {
       "id": "14",
@@ -204,11 +165,8 @@
       "discountPercentage": 7.4,
       "rating": 4.4,
       "stock": 18,
-      "tags": [
-        "core",
-        "powerful"
-      ],
-      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
+      "tags": ["core", "powerful"],
+      "image": "https://imgur.com/IvSzVTq"
     },
     {
       "id": "15",
@@ -219,11 +177,8 @@
       "discountPercentage": 2.7,
       "rating": 3.6,
       "stock": 4,
-      "tags": [
-        "legendary",
-        "personalized"
-      ],
-      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
+      "tags": ["legendary", "personalized"],
+      "image": "https://imgur.com/LDlmTAI"
     },
     {
       "id": "16",
@@ -234,11 +189,8 @@
       "discountPercentage": 7.4,
       "rating": 3.6,
       "stock": 8,
-      "tags": [
-        "flexible",
-        "ancient"
-      ],
-      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
+      "tags": ["flexible", "ancient"],
+      "image": "https://imgur.com/1DlA9Yy"
     },
     {
       "id": "17",
@@ -249,11 +201,8 @@
       "discountPercentage": 8.5,
       "rating": 4.5,
       "stock": 25,
-      "tags": [
-        "core",
-        "powerful"
-      ],
-      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
+      "tags": ["core", "powerful"],
+      "image": "https://imgur.com/to9r1h1"
     },
     {
       "id": "18",
@@ -264,11 +213,8 @@
       "discountPercentage": 7.3,
       "rating": 4.8,
       "stock": 11,
-      "tags": [
-        "flexible",
-        "ancient"
-      ],
-      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
+      "tags": ["flexible", "ancient"],
+      "image": "https://imgur.com/MGufJiW"
     },
     {
       "id": "19",
@@ -279,11 +225,8 @@
       "discountPercentage": 4.5,
       "rating": 3.8,
       "stock": 22,
-      "tags": [
-        "core",
-        "powerful"
-      ],
-      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
+      "tags": ["core", "powerful"],
+      "image": "https://imgur.com/ziIYoXw"
     },
     {
       "id": "20",
@@ -294,11 +237,8 @@
       "discountPercentage": 15.5,
       "rating": 4.8,
       "stock": 30,
-      "tags": [
-        "legendary",
-        "personalized"
-      ],
-      "image": "https://i.postimg.cc/rmwF0Wdp/f7b9dbd0-e7a1-4323-87ef-2ae2f52abe95.png"
+      "tags": ["legendary", "personalized"],
+      "image": "https://imgur.com/BtNc2a8"
     },
     {
       "id": "21",
@@ -309,11 +249,8 @@
       "discountPercentage": 6.6,
       "rating": 4.6,
       "stock": 21,
-      "tags": [
-        "sport",
-        "racing"
-      ],
-      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
+      "tags": ["sport", "racing"],
+      "image": "https://imgur.com/cIw33XO"
     },
     {
       "id": "22",
@@ -324,11 +261,8 @@
       "discountPercentage": 0.7,
       "rating": 5,
       "stock": 11,
-      "tags": [
-        "fast",
-        "light"
-      ],
-      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
+      "tags": ["fast", "light"],
+      "image": "https://imgur.com/pTPtGUH"
     },
     {
       "id": "23",
@@ -339,11 +273,8 @@
       "discountPercentage": 7.9,
       "rating": 4.6,
       "stock": 16,
-      "tags": [
-        "sport",
-        "racing"
-      ],
-      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
+      "tags": ["sport", "racing"],
+      "image": "https://imgur.com/HTfyfig"
     },
     {
       "id": "24",
@@ -354,11 +285,8 @@
       "discountPercentage": 17.4,
       "rating": 4.1,
       "stock": 30,
-      "tags": [
-        "fast",
-        "light"
-      ],
-      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
+      "tags": ["fast", "light"],
+      "image": "https://imgur.com/eWJlVsL"
     },
     {
       "id": "25",
@@ -369,11 +297,8 @@
       "discountPercentage": 0.1,
       "rating": 5,
       "stock": 12,
-      "tags": [
-        "fast",
-        "light"
-      ],
-      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
+      "tags": ["fast", "light"],
+      "image": "https://imgur.com/UMWxtB3"
     },
     {
       "id": "26",
@@ -384,11 +309,8 @@
       "discountPercentage": 16.1,
       "rating": 4.6,
       "stock": 23,
-      "tags": [
-        "vintage",
-        "reliable"
-      ],
-      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
+      "tags": ["vintage", "reliable"],
+      "image": "https://imgur.com/RFyyzy7"
     },
     {
       "id": "27",
@@ -399,11 +321,8 @@
       "discountPercentage": 10.3,
       "rating": 4.1,
       "stock": 6,
-      "tags": [
-        "fast",
-        "light"
-      ],
-      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
+      "tags": ["fast", "light"],
+      "image": "https://imgur.com/c0BR6Te"
     },
     {
       "id": "28",
@@ -414,11 +333,8 @@
       "discountPercentage": 11.2,
       "rating": 4.7,
       "stock": 1,
-      "tags": [
-        "fast",
-        "light"
-      ],
-      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
+      "tags": ["fast", "light"],
+      "image": "https://imgur.com/SyZn8gm"
     },
     {
       "id": "29",
@@ -429,11 +345,8 @@
       "discountPercentage": 7.7,
       "rating": 4,
       "stock": 29,
-      "tags": [
-        "sport",
-        "racing"
-      ],
-      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
+      "tags": ["sport", "racing"],
+      "image": "https://imgur.com/d6kePUy"
     },
     {
       "id": "30",
@@ -444,26 +357,20 @@
       "discountPercentage": 14.3,
       "rating": 3.7,
       "stock": 4,
-      "tags": [
-        "sport",
-        "racing"
-      ],
-      "image": "https://i.postimg.cc/W4j4VxTg/d25c79b6-91dc-408b-afb1-3b1529620ae6.png"
+      "tags": ["sport", "racing"],
+      "image": "https://imgur.com/HBCNSqg"
     },
     {
       "id": "31",
-      "title": "Felix Felicis",
+      "title": "Lumen Elixir",
       "description": "A magical item from the potion store collection.",
       "category": "Potion Store",
       "price": 326,
       "discountPercentage": 10.3,
       "rating": 4.4,
       "stock": 30,
-      "tags": [
-        "liquid magic",
-        "dangerous"
-      ],
-      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
+      "tags": ["liquid magic", "dangerous"],
+      "image": "https://imgur.com/l3YxVVp"
     },
     {
       "id": "32",
@@ -474,11 +381,8 @@
       "discountPercentage": 4.4,
       "rating": 3.8,
       "stock": 12,
-      "tags": [
-        "experimental",
-        "popular"
-      ],
-      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
+      "tags": ["experimental", "popular"],
+      "image": "https://imgur.com/QxH660Q"
     },
     {
       "id": "33",
@@ -489,11 +393,8 @@
       "discountPercentage": 12.5,
       "rating": 4.4,
       "stock": 12,
-      "tags": [
-        "sweet",
-        "tricky"
-      ],
-      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
+      "tags": ["sweet", "tricky"],
+      "image": "https://imgur.com/IX63eX9"
     },
     {
       "id": "34",
@@ -504,11 +405,8 @@
       "discountPercentage": 19.7,
       "rating": 4.2,
       "stock": 29,
-      "tags": [
-        "sweet",
-        "tricky"
-      ],
-      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
+      "tags": ["sweet", "tricky"],
+      "image": "https://imgur.com/W18m4iP"
     },
     {
       "id": "35",
@@ -519,11 +417,8 @@
       "discountPercentage": 7,
       "rating": 4,
       "stock": 8,
-      "tags": [
-        "liquid magic",
-        "dangerous"
-      ],
-      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
+      "tags": ["liquid magic", "dangerous"],
+      "image": "https://imgur.com/gn4qF4o"
     },
     {
       "id": "36",
@@ -534,11 +429,8 @@
       "discountPercentage": 7.5,
       "rating": 3.8,
       "stock": 26,
-      "tags": [
-        "liquid magic",
-        "dangerous"
-      ],
-      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
+      "tags": ["liquid magic", "dangerous"],
+      "image": "https://imgur.com/rfOa5ej"
     },
     {
       "id": "37",
@@ -549,11 +441,8 @@
       "discountPercentage": 19,
       "rating": 4.1,
       "stock": 30,
-      "tags": [
-        "sweet",
-        "tricky"
-      ],
-      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
+      "tags": ["sweet", "tricky"],
+      "image": "https://imgur.com/76Sfrco"
     },
     {
       "id": "38",
@@ -564,11 +453,8 @@
       "discountPercentage": 19.2,
       "rating": 3.8,
       "stock": 17,
-      "tags": [
-        "liquid magic",
-        "dangerous"
-      ],
-      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
+      "tags": ["liquid magic", "dangerous"],
+      "image": "https://imgur.com/c7aO1Os"
     },
     {
       "id": "39",
@@ -579,11 +465,8 @@
       "discountPercentage": 16.7,
       "rating": 5,
       "stock": 12,
-      "tags": [
-        "liquid magic",
-        "dangerous"
-      ],
-      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
+      "tags": ["liquid magic", "dangerous"],
+      "image": "https://imgur.com/dkbMoiA"
     },
     {
       "id": "40",
@@ -594,11 +477,8 @@
       "discountPercentage": 16.9,
       "rating": 3.8,
       "stock": 6,
-      "tags": [
-        "experimental",
-        "popular"
-      ],
-      "image": "https://i.postimg.cc/Bn2vdJ9/8aa47a3d-9256-4f30-82de-46916420efd2.png"
+      "tags": ["experimental", "popular"],
+      "image": "https://imgur.com/jIpz0UP"
     },
     {
       "id": "41",
@@ -609,11 +489,8 @@
       "discountPercentage": 17.1,
       "rating": 4,
       "stock": 5,
-      "tags": [
-        "educational",
-        "standard"
-      ],
-      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
+      "tags": ["educational", "standard"],
+      "image": "https://imgur.com/ugNb8yN"
     },
     {
       "id": "42",
@@ -624,11 +501,8 @@
       "discountPercentage": 2.8,
       "rating": 3.6,
       "stock": 12,
-      "tags": [
-        "educational",
-        "standard"
-      ],
-      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
+      "tags": ["educational", "standard"],
+      "image": "https://imgur.com/zOb20L9"
     },
     {
       "id": "43",
@@ -639,10 +513,7 @@
       "discountPercentage": 12.2,
       "rating": 4.3,
       "stock": 15,
-      "tags": [
-        "fun",
-        "beasts"
-      ],
+      "tags": ["fun", "beasts"],
       "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
@@ -654,10 +525,7 @@
       "discountPercentage": 13.9,
       "rating": 3.8,
       "stock": 22,
-      "tags": [
-        "fun",
-        "beasts"
-      ],
+      "tags": ["fun", "beasts"],
       "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
@@ -669,10 +537,7 @@
       "discountPercentage": 5.3,
       "rating": 4.8,
       "stock": 16,
-      "tags": [
-        "fun",
-        "beasts"
-      ],
+      "tags": ["fun", "beasts"],
       "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
@@ -684,10 +549,7 @@
       "discountPercentage": 6.5,
       "rating": 3.5,
       "stock": 6,
-      "tags": [
-        "educational",
-        "standard"
-      ],
+      "tags": ["educational", "standard"],
       "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
@@ -699,10 +561,7 @@
       "discountPercentage": 14.8,
       "rating": 4.7,
       "stock": 25,
-      "tags": [
-        "fun",
-        "beasts"
-      ],
+      "tags": ["fun", "beasts"],
       "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
@@ -714,10 +573,7 @@
       "discountPercentage": 8,
       "rating": 4,
       "stock": 14,
-      "tags": [
-        "fun",
-        "beasts"
-      ],
+      "tags": ["fun", "beasts"],
       "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
@@ -729,10 +585,7 @@
       "discountPercentage": 6.5,
       "rating": 4.6,
       "stock": 3,
-      "tags": [
-        "dark",
-        "advanced"
-      ],
+      "tags": ["dark", "advanced"],
       "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
@@ -744,10 +597,7 @@
       "discountPercentage": 18.1,
       "rating": 4.6,
       "stock": 29,
-      "tags": [
-        "educational",
-        "standard"
-      ],
+      "tags": ["educational", "standard"],
       "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
     },
     {
@@ -759,10 +609,7 @@
       "discountPercentage": 3.2,
       "rating": 4.4,
       "stock": 3,
-      "tags": [
-        "mysterious",
-        "legendary"
-      ],
+      "tags": ["mysterious", "legendary"],
       "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
@@ -774,10 +621,7 @@
       "discountPercentage": 15.5,
       "rating": 4.1,
       "stock": 10,
-      "tags": [
-        "rare",
-        "collector"
-      ],
+      "tags": ["rare", "collector"],
       "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
@@ -789,10 +633,7 @@
       "discountPercentage": 13.1,
       "rating": 4.1,
       "stock": 4,
-      "tags": [
-        "mysterious",
-        "legendary"
-      ],
+      "tags": ["mysterious", "legendary"],
       "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
@@ -804,10 +645,7 @@
       "discountPercentage": 16.6,
       "rating": 3.7,
       "stock": 10,
-      "tags": [
-        "mysterious",
-        "legendary"
-      ],
+      "tags": ["mysterious", "legendary"],
       "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
@@ -819,10 +657,7 @@
       "discountPercentage": 17.6,
       "rating": 4.1,
       "stock": 13,
-      "tags": [
-        "dark",
-        "powerful"
-      ],
+      "tags": ["dark", "powerful"],
       "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
@@ -834,10 +669,7 @@
       "discountPercentage": 19.8,
       "rating": 3.8,
       "stock": 29,
-      "tags": [
-        "dark",
-        "powerful"
-      ],
+      "tags": ["dark", "powerful"],
       "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
@@ -849,10 +681,7 @@
       "discountPercentage": 4,
       "rating": 4.9,
       "stock": 19,
-      "tags": [
-        "rare",
-        "collector"
-      ],
+      "tags": ["rare", "collector"],
       "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
@@ -864,10 +693,7 @@
       "discountPercentage": 0.1,
       "rating": 3.7,
       "stock": 7,
-      "tags": [
-        "rare",
-        "collector"
-      ],
+      "tags": ["rare", "collector"],
       "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
@@ -879,10 +705,7 @@
       "discountPercentage": 4.3,
       "rating": 5,
       "stock": 6,
-      "tags": [
-        "rare",
-        "collector"
-      ],
+      "tags": ["rare", "collector"],
       "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
@@ -894,10 +717,7 @@
       "discountPercentage": 13.4,
       "rating": 4.6,
       "stock": 3,
-      "tags": [
-        "mysterious",
-        "legendary"
-      ],
+      "tags": ["mysterious", "legendary"],
       "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
     },
     {
@@ -909,10 +729,7 @@
       "discountPercentage": 1.6,
       "rating": 4.1,
       "stock": 27,
-      "tags": [
-        "hogwarts",
-        "starter"
-      ],
+      "tags": ["hogwarts", "starter"],
       "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
@@ -924,10 +741,7 @@
       "discountPercentage": 10.9,
       "rating": 3.5,
       "stock": 25,
-      "tags": [
-        "slytherin",
-        "bundle"
-      ],
+      "tags": ["slytherin", "bundle"],
       "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
@@ -939,10 +753,7 @@
       "discountPercentage": 19.8,
       "rating": 3.6,
       "stock": 29,
-      "tags": [
-        "hogwarts",
-        "starter"
-      ],
+      "tags": ["hogwarts", "starter"],
       "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
@@ -954,10 +765,7 @@
       "discountPercentage": 13.1,
       "rating": 4.4,
       "stock": 21,
-      "tags": [
-        "hogwarts",
-        "starter"
-      ],
+      "tags": ["hogwarts", "starter"],
       "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
@@ -969,10 +777,7 @@
       "discountPercentage": 4.1,
       "rating": 4.8,
       "stock": 24,
-      "tags": [
-        "gryffindor",
-        "essentials"
-      ],
+      "tags": ["gryffindor", "essentials"],
       "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
@@ -984,10 +789,7 @@
       "discountPercentage": 17,
       "rating": 3.8,
       "stock": 10,
-      "tags": [
-        "slytherin",
-        "bundle"
-      ],
+      "tags": ["slytherin", "bundle"],
       "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
@@ -999,10 +801,7 @@
       "discountPercentage": 16.9,
       "rating": 4.9,
       "stock": 13,
-      "tags": [
-        "slytherin",
-        "bundle"
-      ],
+      "tags": ["slytherin", "bundle"],
       "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
@@ -1014,10 +813,7 @@
       "discountPercentage": 10.5,
       "rating": 4.8,
       "stock": 23,
-      "tags": [
-        "hogwarts",
-        "starter"
-      ],
+      "tags": ["hogwarts", "starter"],
       "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
@@ -1029,10 +825,7 @@
       "discountPercentage": 10.1,
       "rating": 4.8,
       "stock": 23,
-      "tags": [
-        "hogwarts",
-        "starter"
-      ],
+      "tags": ["hogwarts", "starter"],
       "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
@@ -1044,10 +837,7 @@
       "discountPercentage": 8.5,
       "rating": 3.5,
       "stock": 11,
-      "tags": [
-        "slytherin",
-        "bundle"
-      ],
+      "tags": ["slytherin", "bundle"],
       "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
     },
     {
@@ -1058,9 +848,7 @@
       "category": "Magical Pet Market",
       "stock": 2,
       "rating": 1,
-      "tags": [
-        "classic"
-      ],
+      "tags": ["classic"],
       "image": "https://i.postimg.cc/gJtucJRH/f5d24588-706f-4edd-93db-29d2aa6cb5ff.png"
     }
   ]
