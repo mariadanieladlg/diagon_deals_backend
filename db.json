@@ -478,7 +478,7 @@
       "rating": 3.8,
       "stock": 6,
       "tags": ["experimental", "popular"],
-      "image": "https://imgur.com/jIpz0UP"
+      "image": "https://i.imgur.com/jIpz0UP.png"
     },
     {
       "id": "41",
@@ -490,7 +490,7 @@
       "rating": 4,
       "stock": 5,
       "tags": ["educational", "standard"],
-      "image": "https://imgur.com/ugNb8yN"
+      "image": "https://i.imgur.com/ugNb8yN.png"
     },
     {
       "id": "42",
@@ -502,7 +502,7 @@
       "rating": 3.6,
       "stock": 12,
       "tags": ["educational", "standard"],
-      "image": "https://imgur.com/zOb20L9"
+      "image": "https://i.imgur.com/zOb20L9.png"
     },
     {
       "id": "43",
@@ -514,7 +514,7 @@
       "rating": 4.3,
       "stock": 15,
       "tags": ["fun", "beasts"],
-      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
+      "image": "https://i.imgur.com/8QE1QCa.png"
     },
     {
       "id": "44",
@@ -526,11 +526,11 @@
       "rating": 3.8,
       "stock": 22,
       "tags": ["fun", "beasts"],
-      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
+      "image": "https://i.imgur.com/YPFjEvO.png"
     },
     {
       "id": "45",
-      "title": "A Beginner\u2019s Guide to Transfiguration",
+      "title": "A Beginner's Guide to Transfiguration",
       "description": "A magical item from the spellbooks and magic collection.",
       "category": "Spellbooks and Magic",
       "price": 746,
@@ -538,7 +538,7 @@
       "rating": 4.8,
       "stock": 16,
       "tags": ["fun", "beasts"],
-      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
+      "image": "https://i.imgur.com/IBmNl0Y.png"
     },
     {
       "id": "46",
@@ -550,7 +550,7 @@
       "rating": 3.5,
       "stock": 6,
       "tags": ["educational", "standard"],
-      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
+      "image": "https://i.imgur.com/y3I6257.png"
     },
     {
       "id": "47",
@@ -562,7 +562,7 @@
       "rating": 4.7,
       "stock": 25,
       "tags": ["fun", "beasts"],
-      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
+      "image": "https://i.imgur.com/hD5LnVN.png"
     },
     {
       "id": "48",
@@ -574,7 +574,7 @@
       "rating": 4,
       "stock": 14,
       "tags": ["fun", "beasts"],
-      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
+      "image": "https://i.imgur.com/rXWMCqF.png"
     },
     {
       "id": "49",
@@ -586,7 +586,7 @@
       "rating": 4.6,
       "stock": 3,
       "tags": ["dark", "advanced"],
-      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
+      "image": "https://i.imgur.com/pFkLEsq.png"
     },
     {
       "id": "50",
@@ -598,7 +598,7 @@
       "rating": 4.6,
       "stock": 29,
       "tags": ["educational", "standard"],
-      "image": "https://i.postimg.cc/hPzv192z/03cd92e8-9cb4-4e3e-baac-fd7e02448703.png"
+      "image": "https://i.imgur.com/wr24z82.png"
     },
     {
       "id": "51",
@@ -610,7 +610,7 @@
       "rating": 4.4,
       "stock": 3,
       "tags": ["mysterious", "legendary"],
-      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
+      "image": "https://i.imgur.com/GWjlC6k.png"
     },
     {
       "id": "52",
