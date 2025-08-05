@@ -6,12 +6,13 @@ try {
 
 const jsonServer = require("json-server");
 const morgan = require("morgan");
-
+const cors = require("cors");
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 const PORT = process.env.PORT || 5005;
 
+server.use(cors());
 server.use(middlewares);
 server.use(morgan("dev"));
 server.use((req, res, next) => {
