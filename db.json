@@ -22,7 +22,7 @@
       "rating": 4,
       "stock": 17,
       "tags": ["rare", "loyal"],
-      "image": "https://imgur.com/Oym2yjv"
+      "image": "https://i.imgur.com/Oym2yjv.png"
     },
     {
       "id": "3",
@@ -34,7 +34,7 @@
       "rating": 4.8,
       "stock": 7,
       "tags": ["rare", "loyal"],
-      "image": "https://imgur.com/RqoBbUE"
+      "image": "https://i.imgur.com/RqoBbUE.png"
     },
     {
       "id": "4",
@@ -46,7 +46,7 @@
       "rating": 4.8,
       "stock": 16,
       "tags": ["cute", "magical"],
-      "image": "https://imgur.com/nNHkkpW"
+      "image": "https://i.imgur.com/nNHkkpW.png"
     },
     {
       "id": "5",
@@ -58,7 +58,7 @@
       "rating": 4.9,
       "stock": 2,
       "tags": ["rare", "loyal"],
-      "image": "https://imgur.com/PH22bmT"
+      "image": "https://i.imgur.com/PH22bmT.png"
     },
     {
       "id": "6",
@@ -70,7 +70,7 @@
       "rating": 4,
       "stock": 11,
       "tags": ["slimy", "classic"],
-      "image": "https://imgur.com/Ctg3gkR"
+      "image": "https://i.imgur.com/Ctg3gkR.png"
     },
     {
       "id": "7",
@@ -82,7 +82,7 @@
       "rating": 4,
       "stock": 11,
       "tags": ["cute", "magical"],
-      "image": "https://imgur.com/I1r7Y0o"
+      "image": "https://i.imgur.com/I1r7Y0o.png"
     },
     {
       "id": "8",
@@ -94,7 +94,7 @@
       "rating": 4.9,
       "stock": 26,
       "tags": ["slimy", "classic"],
-      "image": "https://imgur.com/WBf8lcw"
+      "image": "https://i.imgur.com/WBf8lcw.png"
     },
     {
       "id": "9",
@@ -106,7 +106,7 @@
       "rating": 4.5,
       "stock": 24,
       "tags": ["slimy", "classic"],
-      "image": "https://imgur.com/FTadLyD"
+      "image": "https://i.imgur.com/FTadLyD.png"
     },
     {
       "id": "10",
@@ -118,7 +118,7 @@
       "rating": 4.3,
       "stock": 5,
       "tags": ["cute", "magical"],
-      "image": "https://imgur.com/GSM3aVz"
+      "image": "https://i.imgur.com/GSM3aVz.png"
     },
     {
       "id": "11",
@@ -130,7 +130,7 @@
       "rating": 4.2,
       "stock": 23,
       "tags": ["flexible", "ancient"],
-      "image": "https://imgur.com/maqvbzG"
+      "image": "https://i.imgur.com/maqvbzG.png"
     },
     {
       "id": "12",
@@ -142,7 +142,7 @@
       "rating": 4.5,
       "stock": 1,
       "tags": ["core", "powerful"],
-      "image": "https://imgur.com/SPpQ97s"
+      "image": "https://i.imgur.com/SPpQ97s.png"
     },
     {
       "id": "13",
@@ -154,7 +154,7 @@
       "rating": 4.6,
       "stock": 20,
       "tags": ["legendary", "personalized"],
-      "image": "https://imgur.com/009XPm0"
+      "image": "https://i.imgur.com/009XPm0.png"
     },
     {
       "id": "14",
@@ -166,7 +166,7 @@
       "rating": 4.4,
       "stock": 18,
       "tags": ["core", "powerful"],
-      "image": "https://imgur.com/IvSzVTq"
+      "image": "https://i.imgur.com/IvSzVTq.png"
     },
     {
       "id": "15",
@@ -178,7 +178,7 @@
       "rating": 3.6,
       "stock": 4,
       "tags": ["legendary", "personalized"],
-      "image": "https://imgur.com/LDlmTAI"
+      "image": "https://i.imgur.com/LDlmTAI.png"
     },
     {
       "id": "16",
@@ -190,7 +190,7 @@
       "rating": 3.6,
       "stock": 8,
       "tags": ["flexible", "ancient"],
-      "image": "https://imgur.com/1DlA9Yy"
+      "image": "https://i.imgur.com/1DlA9Yy.png"
     },
     {
       "id": "17",
@@ -202,7 +202,7 @@
       "rating": 4.5,
       "stock": 25,
       "tags": ["core", "powerful"],
-      "image": "https://imgur.com/to9r1h1"
+      "image": "https://i.imgur.com/to9r1h1.png"
     },
     {
       "id": "18",
@@ -214,7 +214,7 @@
       "rating": 4.8,
       "stock": 11,
       "tags": ["flexible", "ancient"],
-      "image": "https://imgur.com/MGufJiW"
+      "image": "https://i.imgur.com/MGufJiW.png"
     },
     {
       "id": "19",
@@ -226,7 +226,7 @@
       "rating": 3.8,
       "stock": 22,
       "tags": ["core", "powerful"],
-      "image": "https://imgur.com/ziIYoXw"
+      "image": "https://i.imgur.com/ziIYoXw.png"
     },
     {
       "id": "20",
@@ -238,7 +238,7 @@
       "rating": 4.8,
       "stock": 30,
       "tags": ["legendary", "personalized"],
-      "image": "https://imgur.com/BtNc2a8"
+      "image": "https://i.imgur.com/BtNc2a8.png"
     },
     {
       "id": "21",
@@ -250,7 +250,7 @@
       "rating": 4.6,
       "stock": 21,
       "tags": ["sport", "racing"],
-      "image": "https://imgur.com/cIw33XO"
+      "image": "https://i.imgur.com/cIw33XO.png"
     },
     {
       "id": "22",
@@ -262,7 +262,7 @@
       "rating": 5,
       "stock": 11,
       "tags": ["fast", "light"],
-      "image": "https://imgur.com/pTPtGUH"
+      "image": "https://i.imgur.com/pTPtGUH.png"
     },
     {
       "id": "23",
@@ -274,7 +274,7 @@
       "rating": 4.6,
       "stock": 16,
       "tags": ["sport", "racing"],
-      "image": "https://imgur.com/HTfyfig"
+      "image": "https://i.imgur.com/HTfyfig.png"
     },
     {
       "id": "24",
@@ -286,7 +286,7 @@
       "rating": 4.1,
       "stock": 30,
       "tags": ["fast", "light"],
-      "image": "https://imgur.com/eWJlVsL"
+      "image": "https://i.imgur.com/eWJlVsL.png"
     },
     {
       "id": "25",
@@ -298,7 +298,7 @@
       "rating": 5,
       "stock": 12,
       "tags": ["fast", "light"],
-      "image": "https://imgur.com/UMWxtB3"
+      "image": "https://i.imgur.com/UMWxtB3.png"
     },
     {
       "id": "26",
@@ -310,7 +310,7 @@
       "rating": 4.6,
       "stock": 23,
       "tags": ["vintage", "reliable"],
-      "image": "https://imgur.com/RFyyzy7"
+      "image": "https://i.imgur.com/RFyyzy7.png"
     },
     {
       "id": "27",
@@ -322,7 +322,7 @@
       "rating": 4.1,
       "stock": 6,
       "tags": ["fast", "light"],
-      "image": "https://imgur.com/c0BR6Te"
+      "image": "https://i.imgur.com/c0BR6Te.png"
     },
     {
       "id": "28",
@@ -334,7 +334,7 @@
       "rating": 4.7,
       "stock": 1,
       "tags": ["fast", "light"],
-      "image": "https://imgur.com/SyZn8gm"
+      "image": "https://i.imgur.com/SyZn8gm.png"
     },
     {
       "id": "29",
@@ -346,7 +346,7 @@
       "rating": 4,
       "stock": 29,
       "tags": ["sport", "racing"],
-      "image": "https://imgur.com/d6kePUy"
+      "image": "https://i.imgur.com/d6kePUy.png"
     },
     {
       "id": "30",
@@ -358,7 +358,7 @@
       "rating": 3.7,
       "stock": 4,
       "tags": ["sport", "racing"],
-      "image": "https://imgur.com/HBCNSqg"
+      "image": "https://i.imgur.com/HBCNSqg.png"
     },
     {
       "id": "31",
@@ -370,7 +370,7 @@
       "rating": 4.4,
       "stock": 30,
       "tags": ["liquid magic", "dangerous"],
-      "image": "https://imgur.com/l3YxVVp"
+      "image": "https://i.imgur.com/l3YxVVp.png"
     },
     {
       "id": "32",
@@ -382,7 +382,7 @@
       "rating": 3.8,
       "stock": 12,
       "tags": ["experimental", "popular"],
-      "image": "https://imgur.com/QxH660Q"
+      "image": "https://i.imgur.com/QxH660Q.png"
     },
     {
       "id": "33",
@@ -394,7 +394,7 @@
       "rating": 4.4,
       "stock": 12,
       "tags": ["sweet", "tricky"],
-      "image": "https://imgur.com/IX63eX9"
+      "image": "https://i.imgur.com/IX63eX9.png"
     },
     {
       "id": "34",
@@ -406,7 +406,7 @@
       "rating": 4.2,
       "stock": 29,
       "tags": ["sweet", "tricky"],
-      "image": "https://imgur.com/W18m4iP"
+      "image": "https://i.imgur.com/W18m4iP.png"
     },
     {
       "id": "35",
@@ -418,7 +418,7 @@
       "rating": 4,
       "stock": 8,
       "tags": ["liquid magic", "dangerous"],
-      "image": "https://imgur.com/gn4qF4o"
+      "image": "https://i.imgur.com/gn4qF4o.png"
     },
     {
       "id": "36",
@@ -430,7 +430,7 @@
       "rating": 3.8,
       "stock": 26,
       "tags": ["liquid magic", "dangerous"],
-      "image": "https://imgur.com/rfOa5ej"
+      "image": "https://i.imgur.com/rfOa5ej.png"
     },
     {
       "id": "37",
@@ -442,7 +442,7 @@
       "rating": 4.1,
       "stock": 30,
       "tags": ["sweet", "tricky"],
-      "image": "https://imgur.com/76Sfrco"
+      "image": "https://i.imgur.com/76Sfrco.png"
     },
     {
       "id": "38",
@@ -454,7 +454,7 @@
       "rating": 3.8,
       "stock": 17,
       "tags": ["liquid magic", "dangerous"],
-      "image": "https://imgur.com/c7aO1Os"
+      "image": "https://i.imgur.com/c7aO1Os.png"
     },
     {
       "id": "39",
@@ -466,7 +466,7 @@
       "rating": 5,
       "stock": 12,
       "tags": ["liquid magic", "dangerous"],
-      "image": "https://imgur.com/dkbMoiA"
+      "image": "https://i.imgur.com/dkbMoiA.png"
     },
     {
       "id": "40",
@@ -622,7 +622,7 @@
       "rating": 4.1,
       "stock": 10,
       "tags": ["rare", "collector"],
-      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
+      "image": "https://i.imgur.com/VidvZQ1.png"
     },
     {
       "id": "53",
@@ -634,11 +634,11 @@
       "rating": 4.1,
       "stock": 4,
       "tags": ["mysterious", "legendary"],
-      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
+      "image": "https://i.imgur.com/XZBMh92.png"
     },
     {
       "id": "54",
-      "title": "Marauder\u2019s Map",
+      "title": "Marauder's Map ",
       "description": "A magical item from the magical artifacts catalog collection.",
       "category": "Magical Artifacts Catalog",
       "price": 777,
@@ -646,11 +646,11 @@
       "rating": 3.7,
       "stock": 10,
       "tags": ["mysterious", "legendary"],
-      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
+      "image": "https://i.imgur.com/JSSMWqy.png"
     },
     {
       "id": "55",
-      "title": "Sorcerer\u2019s Stone Replica",
+      "title": "Sorcerer's Stone Replica",
       "description": "A magical item from the magical artifacts catalog collection.",
       "category": "Magical Artifacts Catalog",
       "price": 372,
@@ -658,7 +658,7 @@
       "rating": 4.1,
       "stock": 13,
       "tags": ["dark", "powerful"],
-      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
+      "image": "https://i.imgur.com/eypqWeN.png"
     },
     {
       "id": "56",
@@ -670,7 +670,7 @@
       "rating": 3.8,
       "stock": 29,
       "tags": ["dark", "powerful"],
-      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
+      "image": "https://i.imgur.com/eKfm4NL.png"
     },
     {
       "id": "57",
@@ -682,7 +682,7 @@
       "rating": 4.9,
       "stock": 19,
       "tags": ["rare", "collector"],
-      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
+      "image": "https://i.imgur.com/zEy5rgy.png"
     },
     {
       "id": "58",
@@ -694,7 +694,7 @@
       "rating": 3.7,
       "stock": 7,
       "tags": ["rare", "collector"],
-      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
+      "image": "https://i.imgur.com/CvvU1I8.png"
     },
     {
       "id": "59",
@@ -706,11 +706,11 @@
       "rating": 5,
       "stock": 6,
       "tags": ["rare", "collector"],
-      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
+      "image": "https://i.imgur.com/oB2TBlF.png"
     },
     {
       "id": "60",
-      "title": "Hogwarts Founders\u2019 Medallion",
+      "title": "Hogwarts Founders' Medallion",
       "description": "A magical item from the magical artifacts catalog collection.",
       "category": "Magical Artifacts Catalog",
       "price": 262,
@@ -718,7 +718,7 @@
       "rating": 4.6,
       "stock": 3,
       "tags": ["mysterious", "legendary"],
-      "image": "https://i.postimg.cc/L6cXnWY/7be74288-f7e8-47f0-884d-06049991ffd1.png"
+      "image": "https://i.imgur.com/B9pNt6v.png"
     },
     {
       "id": "61",
@@ -730,7 +730,7 @@
       "rating": 4.1,
       "stock": 27,
       "tags": ["hogwarts", "starter"],
-      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
+      "image": "https://i.imgur.com/DaGzCTb.png"
     },
     {
       "id": "62",
@@ -742,7 +742,7 @@
       "rating": 3.5,
       "stock": 25,
       "tags": ["slytherin", "bundle"],
-      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
+      "image": "https://i.imgur.com/THQn7I4.png"
     },
     {
       "id": "63",
@@ -754,7 +754,7 @@
       "rating": 3.6,
       "stock": 29,
       "tags": ["hogwarts", "starter"],
-      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
+      "image": "https://i.imgur.com/YhvT5nW.png"
     },
     {
       "id": "64",
@@ -766,7 +766,7 @@
       "rating": 4.4,
       "stock": 21,
       "tags": ["hogwarts", "starter"],
-      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
+      "image": "https://i.imgur.com/IEXd9xd.png"
     },
     {
       "id": "65",
@@ -778,7 +778,7 @@
       "rating": 4.8,
       "stock": 24,
       "tags": ["gryffindor", "essentials"],
-      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
+      "image": "https://i.imgur.com/SRnGn2D.png"
     },
     {
       "id": "66",
@@ -790,7 +790,7 @@
       "rating": 3.8,
       "stock": 10,
       "tags": ["slytherin", "bundle"],
-      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
+      "image": "https://i.imgur.com/xKK0yJK.png"
     },
     {
       "id": "67",
@@ -802,7 +802,7 @@
       "rating": 4.9,
       "stock": 13,
       "tags": ["slytherin", "bundle"],
-      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
+      "image": "https://i.imgur.com/lrL7AWW.png"
     },
     {
       "id": "68",
@@ -814,7 +814,7 @@
       "rating": 4.8,
       "stock": 23,
       "tags": ["hogwarts", "starter"],
-      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
+      "image": "https://i.imgur.com/kzEsgbS.png"
     },
     {
       "id": "69",
@@ -826,7 +826,7 @@
       "rating": 4.8,
       "stock": 23,
       "tags": ["hogwarts", "starter"],
-      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
+      "image": "https://i.imgur.com/23sDkNQ.png"
     },
     {
       "id": "70",
@@ -838,18 +838,7 @@
       "rating": 3.5,
       "stock": 11,
       "tags": ["slytherin", "bundle"],
-      "image": "https://i.postimg.cc/k5cggwgz/db3ecef9-6673-432a-8b47-bbf0e2aa2901.png"
-    },
-    {
-      "id": "4e7d",
-      "title": "Producto",
-      "description": "Uno",
-      "price": 1,
-      "category": "Magical Pet Market",
-      "stock": 2,
-      "rating": 1,
-      "tags": ["classic"],
-      "image": "https://i.postimg.cc/gJtucJRH/f5d24588-706f-4edd-93db-29d2aa6cb5ff.png"
+      "image": "https://i.imgur.com/ob5Ghe7.png"
     }
   ]
 }
